@@ -1,4 +1,4 @@
-# example-repo
+# example-repo for getting started with Git and GitHub
 
 Git and GitHub are tools for version control and collaborative work. Git is a program that can be 
 run on your own computer, or as a server. GitHub is a web app that adds an intuitive
